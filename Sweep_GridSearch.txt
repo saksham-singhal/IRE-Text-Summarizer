@@ -1,0 +1,1 @@
+Lambda	Alpha	Rouge-1 R(avg)	Rouge-1 F(avg)
